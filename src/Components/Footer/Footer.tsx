@@ -2,7 +2,7 @@ import Link from 'next/link';
 import styles from './Footer.module.scss';
 import Image from 'next/image';
 import { AiOutlineInstagram } from 'react-icons/ai';
-import { FaTwitter, FaLinkedin } from 'react-icons/fa'; // Usei ícones de exemplo, substitua pelo que você desejar.
+import { FaTwitter, FaLinkedin } from 'react-icons/fa';
 
 export const footer = {
   description: 'Transformando vidas com tecnologia e inovação.',
